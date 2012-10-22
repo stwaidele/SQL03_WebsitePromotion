@@ -3,15 +3,15 @@ Type=TeXnicCenterProjectSessionInformation
 Version=2
 
 [SessionInfo]
-ActiveTab=3
+ActiveTab=0
 FrameCount=7
-ActiveFrame=1
+ActiveFrame=0
 
 [Frame0]
 Columns=1
 Rows=1
-Flags=0
-ShowCmd=1
+Flags=2
+ShowCmd=3
 MinPos.x=-1
 MinPos.y=-1
 MaxPos.x=-8
@@ -24,23 +24,23 @@ Class=CLatexEdit
 Document=WebsitePromotion.tex
 
 [Frame0_Row0]
-cyCur=260
+cyCur=243
 cyMin=10
 
 [Frame0_Col0]
-cxCur=994
+cxCur=1022
 cxMin=10
 
 [Frame0_View0,0]
-Cursor.row=13
-Cursor.column=1
-TopSubLine=9
+Cursor.row=45
+Cursor.column=36
+TopSubLine=36
 
 [Frame1]
 Columns=1
 Rows=1
-Flags=2
-ShowCmd=3
+Flags=0
+ShowCmd=1
 MinPos.x=-1
 MinPos.y=-1
 MaxPos.x=-8
@@ -53,11 +53,11 @@ Class=CLatexEdit
 Document=sql03_websitepromotion.bib
 
 [Frame1_Row0]
-cyCur=311
+cyCur=258
 cyMin=10
 
 [Frame1_Col0]
-cxCur=1139
+cxCur=998
 cxMin=10
 
 [Frame1_View0,0]
@@ -121,7 +121,7 @@ cxMin=10
 [Frame3_View0,0]
 Cursor.row=26
 Cursor.column=27
-TopSubLine=22
+TopSubLine=17
 
 [Frame4]
 Columns=1
